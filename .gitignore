@@ -1,1 +1,8 @@
+# The virtul environment
 /env
+
+# The server environment variables
+.env
+
+# Cached files
+**/__pycache__
